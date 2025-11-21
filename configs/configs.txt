@@ -8,7 +8,6 @@ Refer to the addressing table.
 
 2. OSPF configurations on all routers.
 
-
 HQ-R:
 
 en
